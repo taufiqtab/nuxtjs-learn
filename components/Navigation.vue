@@ -1,6 +1,6 @@
 <template>
     <div class="bg-blue-500 font-semibold">
-        <div class="mx-auto flex justify-between items-center py-6 px-4">
+        <div class="mx-auto flex justify-between items-center py-4 px-4">
             <div class="flex">
                 <LogoSmall />
                 <nuxt-link class="text-white no-underline hover:text-grey-light" to="/">Report Daily Activity</nuxt-link>
